@@ -10,7 +10,7 @@ This is a single-page resume website built using only **HTML** as part of an ass
 
 ---
 
-## ✅ Features
+## Features
 
 - About Me section
 - Skills list
@@ -35,19 +35,18 @@ Open the project folder
 
 resume.html in any browser
 
-## 🌐 Live Demo (GitHub Pages)
+## Live Demo (GitHub Pages)
 
 Live Website Link:
-
-👉 Coming Soon (Not deployed yet)
+https://jiv-s.github.io/resume-website/
 
 ## 📸 Screenshot Preview
 
-![Resume Screenshot 1](screenshots/resumeo1.png)
+![Resume Screenshot 1](screenshots/resumeo1.jpeg)
 
-![Resume Screenshot 2](screenshots/resumeo2.png)
+![Resume Screenshot 2](screenshots/resumeo2.jpeg)
 
-## ✅ Technologies Used
+## Technologies Used
 
 - HTML5 only (No CSS)
 
